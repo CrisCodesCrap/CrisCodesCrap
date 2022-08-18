@@ -1,3 +1,7 @@
+# Hey, I'm Kris 🙌
+# Glad you're here!
+I'm a full-stack developer in high-school, who mostly enjoys spending their free time writing RESTful API's, making fun python scripts and having fun with new languages and technologies in general!
+
 # 💫 About Me:
 🔭 I'm currently working on several projects, big and small.<br>👯 I’m looking to collaborate on hackathons with cool projects.<br>🤝 I’m looking for help with some OOP concepts because Java..<br>🌱 I’m currently learning some more advanced Python concepts. <br>💬 Ask me about anything! I'm not an expert, but I would be happy to help!<br>⚡ Fun fact: I hate Java 😁
 
