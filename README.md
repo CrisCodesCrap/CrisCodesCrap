@@ -1,4 +1,4 @@
-# Hey, I'm Kris 🙌
+# Hey, I'm Kris 👋
 A full-stack developer in high-school. <br>
 Contact me if you have any opportunities or collaboration ideas.
 
